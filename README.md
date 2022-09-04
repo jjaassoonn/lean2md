@@ -2,7 +2,7 @@
 
 ## Usage
 
-```bash
+```shell
 python lean2md.py -i <input.lean> <output.md>
 ```
 
